@@ -191,4 +191,8 @@
     .container_parrafo p {
         font-size: 15px;
     }
+
+    .by_section h2 {
+        font-size: 22px;
+    }
 }
