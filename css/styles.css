@@ -76,7 +76,10 @@
 }
 
 .card:hover {
-    box-shadow: 1px 2px 4px 3px rgba(240,160,63,0.64);
+    box-shadow: 1px 2px 4px 3px rgba(251, 155, 38, 0.64);
+}
+.card:hover i {
+    color: var(--secondary-color);
 }
 
 .info_card {
@@ -116,9 +119,6 @@
     cursor: pointer;
 }
 
-.social_media_card a:hover {
-    color: var(--secondary-color);
-}
 
 
 /* Pantallas medianas responsive */
